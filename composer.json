@@ -1,0 +1,15 @@
+{
+    "name": "kbogey/todolist-composerr",
+    "autoload": {
+        "psr-4": {
+            "Kbogey\\TodolistComposerr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin BF",
+            "email": "bogeykevin@gmail.com"
+        }
+    ],
+    "require": {}
+}
